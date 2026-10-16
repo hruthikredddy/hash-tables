@@ -1,0 +1,6 @@
+{
+  "name": "Smart Contact Management Using Hash Tables",
+  "description": "High-performance in-memory contact management system powered by custom hash tables, polynomial rolling hash, and separate chaining collision resolution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
